@@ -1,4 +1,4 @@
-## • Data Dictionary
+## â€¢ Data Dictionary
 | features | dtype | mean value | standard deviation | min | max | description |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Date | object | n/a | n/a | n/a | n/a | The date of the trading session in YYYY-MM-DD format. |
@@ -10,5 +10,11 @@
 | ticker | object | n/a | n/a | n/a | n/a | The standard ticker symbol for The Coca-Cola Company on the NYSE: 'KO'. |
 | name | object | n/a | n/a | n/a | n/a | The full name of the company: 'The Coca-Cola Company'. |
 
-## • Data Collection
+## â€¢ Key Features
+### Daily OHLCV Data: The dataset contains essential Open, High, Low, Close, and Volume metrics for each trading day.
+### Comprehensive History: Includes data from Coca-Cola's early trading history to the present, offering a long-term perspective.
+### High-Quality Data: The data is clean and sourced from a reliable financial API, ideal for direct use in analysis and modeling.
+### Regular Updates: The dataset is designed for regular, automated updates to ensure data freshness for time-sensitive projects.
+
+## â€¢ Data Collection
 ### The data for this dataset is collected using the yfinance Python library, which pulls information directly from the Yahoo Finance API.

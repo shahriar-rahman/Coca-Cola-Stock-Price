@@ -11,10 +11,10 @@
 | name | object | n/a | n/a | n/a | n/a | The full name of the company: 'The Coca-Cola Company'. |
 
 ## • Key Features
-### Daily OHLCV Data: The dataset contains essential Open, High, Low, Close, and Volume metrics for each trading day.
-### Comprehensive History: Includes data from Coca-Cola's early trading history to the present, offering a long-term perspective.
-### High-Quality Data: The data is clean and sourced from a reliable financial API, ideal for direct use in analysis and modeling.
-### Regular Updates: The dataset is designed for regular, automated updates to ensure data freshness for time-sensitive projects.
+1. Daily OHLCV Data: The dataset contains essential Open, High, Low, Close, and Volume metrics for each trading day. 
+2. Comprehensive History: Includes data from Coca-Cola's early trading history to the present, offering a long-term perspective. 
+3. High-Quality Data: The data is clean and sourced from a reliable financial API, ideal for direct use in analysis and modeling. 
+4. Regular Updates: The dataset is designed for regular, automated updates to ensure data freshness for time-sensitive projects.
 
 ## • Data Collection
 ### The data for this dataset is collected using the yfinance Python library, which pulls information directly from the Yahoo Finance API.
